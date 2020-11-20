@@ -1,0 +1,12 @@
+{
+  "name": "chatPopout",
+  "title": "Chat Popout",
+  "description": "Pops out item cards",
+  "author": "SinSurroundsIt",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.7",
+  "compatibleCoreVersion": "0.7.7",
+  "scripts": [
+    "scripts/chatPopout.js"
+  ]
+}
